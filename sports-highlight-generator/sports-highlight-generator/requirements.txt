@@ -1,0 +1,13 @@
+# Torch already pre-installed in the AMD ROCm environment — do NOT reinstall.
+# If you must: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/rocm6.2
+
+opencv-python-headless
+openai-whisper
+ultralytics
+transformers>=4.40
+accelerate
+Pillow
+moviepy
+soundfile
+numpy
+matplotlib
